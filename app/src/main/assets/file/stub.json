@@ -1,0 +1,15 @@
+{
+  "$jason": {
+    "body": {
+      "header": {
+        "title": "This is a stub",
+        "menu": {
+          "text": "Home",
+          "href": {
+            "url": "file://hello.json"
+          }
+        }
+      }
+    }
+  }
+}
