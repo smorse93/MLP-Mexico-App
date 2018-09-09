@@ -1,0 +1,29 @@
+
+{
+    "$jason":{
+        "body": {
+            "header": {
+                "title": "Student Learning Platform",
+                "menu": {
+                    "text": "Home",
+                    "href": {
+                        "url": "file://hello.json"
+                    }
+                }
+            },
+            "sections": [{
+                "items": [
+                    {"type": "vertical",
+                        "style": {"spacing": "5"},
+                        "components": [
+                            {"type": "label", "text": "Appendices" },
+                            {"type": "label", "text": "This section provides an intro to the MLP program provided by the founder and head of the Marketplace Literacy Program: Professor Madhu Viswanathan" },
+                            {"type": "label", "text": "Dream Builder" },
+                            {"type": "label", "text": "Now that you've completed the course, we suggest you use the dream builder tool to take you to the next level. DreamBuilder will help you to evaluate and organize your business ideas." }
+                        ]
+                    }
+                ]
+            }]
+        }
+    }
+}

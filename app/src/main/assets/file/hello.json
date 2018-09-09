@@ -1,32 +1,32 @@
 {
-  "$jason": {
-    "head": {
-      "title" : "Simple shit right now"
-    },
-    "body": {
-      "header": {
-        "title": "MLP Mexico",
-        "menu": {
-          "text": "Home",
-          "href": {
-            "url": "file://hello.json"
-          }
+    "$jason": {
+        "head": {
+            "title" : "Simple shit right now"
+        },
+        "body": {
+            "header": {
+                "title": "MLP Mexico",
+                "menu": {
+                    "text": "Home",
+                    "href": {
+                        "url": "file://hello.json"
+                    }
+                }
+            },
+            "sections": [{
+                "items": [
+                    {"type": "vertical",
+                        "style": {"spacing": "5"},
+                        "components": [
+                            {"type": "button", "url": "file://VideoModules.png", "href": {"url": "file://videos.json"}},
+                            {"type": "button", "url": "file://DownloadableMaterials.png", "href": {"url": "file://stub.json"}},
+                            {"type": "button", "url": "file://Feedback.png", "href": {"url": "file://stub.json"}},
+                            {"type": "button", "url": "file://FacebookPage.png", "href": {"url": "file://stub.json"}},
+                            {"type": "button", "url": "file://Instagram.png", "href": {"url": "file://stub.json"}}
+                        ]
+                    }
+                ]
+            }]
         }
-      },
-      "sections": [{
-        "items": [
-          {"type": "vertical",
-            "style": {"spacing": "5"},
-            "components": [
-              {"type": "label", "text": "Video Modules", "href": { "url": "file://stub.json" } },
-              {"type": "label", "text": "Downloadable Teaching Materials", "href": { "url": "file://stub.json" } },
-              {"type": "label", "text": "Feedback", "href": { "url": "file://stub.json" } },
-              {"type": "label", "text": "Facebook page", "href": { "url": "file://stub.json" } },
-              {"type": "label", "text": "Instragram", "href": { "url": "file://stub.json" } }
-            ]
-          }
-        ]
-      }]
     }
-  }
 }

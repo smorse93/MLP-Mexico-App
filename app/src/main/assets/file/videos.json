@@ -1,0 +1,56 @@
+{
+    "$jason":{
+        "body": {
+            "header": {
+                "title": "Videos 1-10",
+                "menu": {
+                    "text": "Home",
+                    "href": {
+                        "url": "file://hello.json"
+                    }
+                }
+            },
+            "sections": [{
+                "items": [
+                    {"type": "vertical",
+                        "style" : {"align": "center", "spacing": "10"},
+                        "components" :[
+                            {"type": "label", "style":{"align": "center"}, "text": "Module 1" },
+                            {"type": "label", "style":{"align": "center"},  "text": "This section provides an intro to the MLP program provided by the founder and head of the Marketplace Literacy Program: Professor Madhu Viswanathan" },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/237354609\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 2" },
+                            {"type": "label", "style":{"align": "center"},  "text": "Who participated in this project? How has it come about and how does it operate? Where else is marketplace literacy taught? Throughout this video we explain why this program is different from all others. The key is the question \"why?\"." },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/227744657\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 3" },
+                            {"type": "label", "style":{"align": "center"},  "text": "Cristina Azuara and Elena Olascoaga give an overview of what you will learn in this program. The learning is based on extensive research that has been tested in multiple countries. In Mexico we incorporate a unique component: Autonomy." },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/227745075\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 4" },
+                            {"type": "label", "style":{"align": "center"},  "text": "You will learn to be a more skilled consumer and entrepreneur, starting from your own experiences." },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/237593297\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 5" },
+                            {"type": "label", "style":{"align": "center"},  "text": "Many of you attend this workshop with the intention of learning and taking advantage of the knowledge acquired here. For that to happen we must co-create an environment in which we feel secure to share." },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/237593531\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 6" },
+                            {"type": "label", "style":{"align": "center"},  "text": "Sharing knowledge, ideas and experiences with other people enriches us. Throughout the workshop we will work in small teams." },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238267765\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 7" },
+                            {"type": "label", "style":{"align": "center"},  "text": "This activity is a good warm up. It will help us to ask ourselves \"why\"? This question is indispensable to us in all of our businesses. We will learn to use this method of questioning in this lesson." },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238268202\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 8" },
+                            {"type": "label", "style":{"align": "center"},  "text": "We have extensive knowledge of buying and selling. This activity will have you recall  those experiences, developing a better understanding of what we spend every day and what we buy." },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238268962\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 9" },
+                            {"type": "label", "style":{"align": "center"},  "text": "To buy by pressure, to spend too much, to not reach the extent of your money are the most frequent fears of the consumers. Can you list some more?​" },
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238269394\"></iframe></html"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Module 10"},
+                            {"type": "label", "style":{"align": "center"},  "text": "Fears often paralyze us, so it is very important that  we make a plan of action to take away those fears."},
+                            {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238269829\"></iframe></html"},
+                    		{"type": "label", "style":{"align": "center"}, "text": "Modules 11-20", "href": { "url": "file://student-learning-platform-11-20.json" } }
+                        ]
+                    }
+                ]
+            }
+            ]
+        }
+    }
+}
