@@ -15,6 +15,7 @@
                     {"type": "vertical",
                         "style" : {"align": "center", "spacing": "10"},
                         "components" :[
+                            {"type": "image", "url": "file://VideoDownloads.png", "href": {"view": "web","url":"https://www.dropbox.com/sh/ear3vfd4vbk5giy/AAAfhMiWCF9eHf4pL3aU_Cyxa?dl=0" }},
                             {"type": "label", "style":{"align": "center"}, "text": "Module 1" },
                             {"type": "label", "style":{"align": "center"},  "text": "This section provides an intro to the MLP program provided by the founder and head of the Marketplace Literacy Program: Professor Madhu Viswanathan" },
                             {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/237354609\"></iframe></html"},
@@ -45,7 +46,7 @@
                             {"type": "label", "style":{"align": "center"},  "text": "Module 10"},
                             {"type": "label", "style":{"align": "center"},  "text": "Fears often paralyze us, so it is very important that  we make a plan of action to take away those fears."},
                             {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238269829\"></iframe></html"},
-                    		{"type": "label", "style":{"align": "center"}, "text": "Modules 11-20", "href": { "url": "file://student-learning-platform-11-20.json" } }
+                    		{"type": "image", "style":{"align": "center"}, "url": "file://Module11-20.png", "href": { "url": "file://student-learning-platform-11-20.json" } }
                         ]
                     }
                 ]
