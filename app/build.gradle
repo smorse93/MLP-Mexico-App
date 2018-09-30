@@ -4,10 +4,10 @@ android {
     compileSdkVersion 25
     buildToolsVersion '25.0.0'
     defaultConfig {
-        applicationId "com.jasonette"
+        applicationId "com.MLP"
         minSdkVersion 17
-        targetSdkVersion 22
-        versionCode 3
+        targetSdkVersion 26
+        versionCode 6
         versionName "0.1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
@@ -16,6 +16,8 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+    productFlavors {
     }
 }
 

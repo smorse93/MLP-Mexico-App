@@ -7,7 +7,8 @@
                     "text": "Home",
                     "href": {
                         "url": "file://hello.json"
-                    }
+                    },
+                    "style":{"color": "rgb(0,0,0)"}
                 }
             },
             "sections": [{
@@ -15,22 +16,21 @@
                     {"type": "vertical",
                         "style" : {"align": "center", "spacing": "10"},
                         "components": [
-                            {"type": "label","style":{"align": "center"}, "text": "Module 21" },
-                            {"type": "label","style":{"align": "center"}, "text": "There must be a balance in what we give and receive through our business. It is very important that we have a code of honor to our suppliers, consumers, and our community" },
+                            {"type": "label","style":{"align": "center","size" : "18", "color": "rgb(0,0,0)"}, "text": "Module 21" },
+                            {"type": "label","style":{"align": "center"}, "text": "Debe haber un equilibrio en lo que damos y recibimos a través de nuestro negocio. Es muy importante que tengamos un código de honor para nuestros proveedores, consumidores y nuestra comunidad." },
                             {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238973204\"></iframe></html"},
-                            {"type": "label","style":{"align": "center"}, "text": "Module 22" },
-                            {"type": "label","style":{"align": "center"}, "text": "Some practices we do in business negatively impact the environment and future generations. What can we do within our business to protect the environment?" },
+                            {"type": "label","style":{"align": "center","size" : "18", "color": "rgb(0,0,0)"}, "text": "Module 22" },
+                            {"type": "label","style":{"align": "center"}, "text": "Algunas prácticas que hacemos en los negocios impactan negativamente al medio ambiente y a las generaciones futuras. ¿Qué podemos hacer dentro de nuestro negocio para proteger el medio ambiente?" },
                             {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238973566\"></iframe></html"},
-                            {"type": "label","style":{"align": "center"}, "text": "Module 23" },
-                            {"type": "label","style":{"align": "center"}, "text": "Integrative activities that help us to review the previous lessons." },
+                            {"type": "label","style":{"align": "center","size" : "18", "color": "rgb(0,0,0)"}, "text": "Module 23" },
+                            {"type": "label","style":{"align": "center"}, "text": "Actividades integrativas que nos ayudan a revisar las lecciones anteriores." },
                             {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238974402\"></iframe></html"},
-                            {"type": "label","style":{"align": "center"}, "text": "Module 24" },
-                            {"type": "label","style":{"align": "center"}, "text": "Everything is an exchange. It is time to share what you give and what you receive when taking this workshop?" },
+                            {"type": "label","style":{"align": "center","size" : "18", "color": "rgb(0,0,0)"}, "text": "Module 24" },
+                            {"type": "label","style":{"align": "center"}, "text": "Todo es un intercambio. ¿es hora de compartir lo que das y lo que recibes al tomar este taller?" },
                             {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238974153\"></iframe></html"},
-                            {"type": "label","style":{"align": "center"}, "text": "Module 25" },
-                            {"type": "label","style":{"align": "center"}, "text": "Congratulations and thanks for dedicating valuable time to your growth! Remember, we bring you ideas and tools, it is YOUR choice to use them." },
+                            {"type": "label","style":{"align": "center","size" : "18", "color": "rgb(0,0,0)"}, "text": "Module 25" },
+                            {"type": "label","style":{"align": "center"}, "text": "Felicitaciones y gracias por dedicar su valioso tiempo a su crecimiento! Recuerde, le traemos ideas y herramientas, es su opción usarlas." },
                             {"type": "html", "text": "<html><iframe src=\"https://player.vimeo.com/video/238975053\"></iframe></html"},
-                            {"type": "image","style":{"align": "center"}, "url": "file://Appendices.png", "href": { "url": "file://appendices.json" } }
                         ]
                     }
                 ]

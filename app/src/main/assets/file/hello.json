@@ -5,12 +5,17 @@
         },
         "body": {
             "header": {
-                "title": "MLP Mexico",
+                "title": {
+                    "type": "image",
+                    "style": {"align": "center"},
+                    "url" : "file://MLPMexicoBanner.png"
+                },
                 "menu": {
                     "text": "Home",
                     "href": {
                         "url": "file://hello.json"
-                    }
+                    },
+                    "style":{"color": "rgb(0,0,0)"}
                 }
             },
             "sections": [{
@@ -22,7 +27,7 @@
                             {"type": "image", "url": "file://DownloadableMaterials.png", "href": {"url": "file://downloadable-material.json"}},
                             {"type": "image", "url": "file://Feedback.png", "href": {"view" : "web", "url": "https://docs.google.com/forms/d/e/1FAIpQLSchAcdVjDtQu4tvNirw6XLkgmISAosbfQ9Yvvrj9oPIa4sKvA/viewform"}},
                             {"type": "image", "url": "file://FacebookPage.png", "href": {"view": "web", "url": "https://www.facebook.com/reto4mil"}},
-                            {"type": "image", "url": "file://Instagram.png", "href": {"view": "web", "url": "file://stub.json"}}
+                            {"type": "image", "url": "file://Instagram.png", "href": {"view": "web", "url": "https://www.instagram.com/reto4mil/"}}
                         ]
                     }
                 ]

@@ -7,7 +7,8 @@
                     "text": "Home",
                     "href": {
                         "url": "file://hello.json"
-                    }
+                    },
+                    "style":{"color": "rgb(0,0,0)"}
                 }
             },
             "sections": [{

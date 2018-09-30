@@ -2,391 +2,391 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\3c8abe22bd6912bb91eac4dace316e614c18be70\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a596ec894cc504a1d89451a815b002a8655b702a\classes.dex" />
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\eventbus-3.0.0_4131f4e6420fdb683f657d460ecf80ad2dc6911d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\2d7ca6d8af3474c51816f5ff7d8709f88c01711b\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7d702a799c70fc04b3e97f4c7e8ebbb8af28e873\classes.dex" />
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\okio-1.9.0_ca76b6ef537357b69374a877da8e54c146cde274.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\37c791e85b6ef214e1ab4728c2884cfc3fe2ccaa\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cc612fa2610b0741f55190e7bc73034144873adb">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65a89841e62c4aeaffbdcbf74865d808d0057ca5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\1a7ea5b57740e6fbb87259ac17da5664b57c157c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19e6536a683d9bda0df1a8ed180f713928dc971b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\539cff75d351873a2ba0a12088937f9376edb566\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aadda81da5bf2faf95924c1347259addf393de54\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\d5e01d6203dd04f393dd2dc640671444cbb9df4d\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\e40f623dfeb7cfdbabcd82fc44c2dcb4e0859ce3\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6c1ddc20bc747ab2073e12f36bddbe9cd8a7d45\classes.dex" />
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_10b0c69f4b85014df98c69b35208b81576565d34.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\54fa78d45152a090d326a36b580ecc1fcf3dc906\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.gradle\caches\modules-2\files-2.1\com.github.scribejava\scribejava-core\4.0.0\f4b14341c6fb36958ea5480986d58e313e9d6d74\scribejava-core-4.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="cbb4ef3c04c9181c7b4f87be2e5efa28877f6509">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15f0d5c4ece69ae11deb64ca3a82e4dca8a23961\classes.dex" />
+        sha1="f4b14341c6fb36958ea5480986d58e313e9d6d74">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\scribejava-core-4.0.0_81b6f6580a567ec4030c54f4a910ec9e5e28efd3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\d57ee840e6b3e1cbad35854bb40d35672555a4dc\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\373c91747f10b3edb67d136a49b7f48d8037aca6\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4369fc130dd33e619f5dc9e04830b46f724c3f8\classes.dex" />
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_d6b98d1f7aea55da1a975987e5b5aec2118c9367.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\943759001c776c53f220f6d89c0ad9b1ccf97025\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\b2bf4a43d479bfca38ed0424629a2b837a1e64b8\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="16d4b1c07651dd6009971511173bd747fee826c5">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af9f1db6302ee4fc024df5919e2e1baccd84b270\classes.dex" />
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_b9d327de8688f8a38b49a7fd1513f02c09269c03.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\ef46bc5e9ea64762591ec90cbfa5889772c03cde\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\0a4861b6d0df42e99c49e016aaae8d11837e7c62\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1ee5dd8b5c00c254a509c7c63f64a31d3f3e616\classes.dex" />
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_e73b8095f7998227c83db4d7508fbe38aa0b6b8c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\9304e6cc68fc9011f4e501825522927198afd6da\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\0a4861b6d0df42e99c49e016aaae8d11837e7c62\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="3bfdddd4e47dab6e743f217d2ddde7e6cc5db0ee">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b26b99f7df0333fa9913ff3ab60d9da89acf3e63\classes.dex" />
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_f73e1d1241d701e0685ff63b04a880f8425287f7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.gradle\caches\modules-2\files-2.1\com.github.scribejava\scribejava-apis\4.0.0\aa7e65edd55d6188b8920ce01523417d6216c033\scribejava-apis-4.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\b43bb9ed2b124256bfedfdda8c4aafa76917dbd2\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="aa7e65edd55d6188b8920ce01523417d6216c033">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\scribejava-apis-4.0.0_1fb715847da056eae1600a6aa59697ff048f466f\classes.dex" />
+        sha1="446319de779f94fde7b43c37524b43c30cd148b8">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_b4db76d4db21a17bea46f0d870c2d59cacf7c309.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\3cbfba883ba8967d48f6ce576787bafb1df380fc\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="04719361c29b9df47eb0e0ca5a8717807893addd">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca2052c25af6bd2af254bd6e26cea2fe18dd5f18\classes.dex" />
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\support-annotations-25.0.1_4e0c15b912c74786a3405109fdbafd678ca3b9f9.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\a5da70b725275a342e399bfef8c9219801e81eda\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\f8dfe103fd4f2a33fabe82b2104ac046ebe69597\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c6789e215eaa69de9e2406209f0204012b993e7c\classes.dex" />
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_d1108a6f999d142f80c55cdcc32925aae3ecb7e5.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\e3e172bbf72e3d2bdde5136e3fdebbd329d8c963\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="166c64fdb3660b9d4def0f2697b2ad3b5d44150a">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67d822014bd21f13dddba646d8a7902840c7762c\classes.dex" />
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\okhttp-3.4.2_6edba1aa39a695a616065dad0c68e38b85f0f1d3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\a0da18398b292d170e80af3032146d10bd0c2256\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\45e10807b2d54c44946fd4a9971fdb5448d7360e\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b7bd0ac84bff0b370de9b3df81cf46f4879e7d9\classes.dex" />
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_527365117041b050a4181f43d72202e5d595b108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\161663de976411c01e515ac368713ffcca843b34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cbb4ef3c04c9181c7b4f87be2e5efa28877f6509">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_3a43bcc445454bd2dbaed69a61dcc07b18c85d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\f8dfe103fd4f2a33fabe82b2104ac046ebe69597\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_71ffc141561bf055573fe2cecbcc858abf802be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\80f21fd8874dbe9a22e761b57aee657ac42d29ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_f8c606e4c2c344801af27272c1be3472fe08cf3f.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\828a1231744e7e86226a4b3d3405e8a8ca46e01c\output\jars\classes.jar"
+        jar="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="a35913c0605e6d17f70acefe8c383eabcfc367c6">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c033dbff00768ea9ab385d811b5134eeaf32af4e\classes.dex" />
+        sha1="cb8e68c2e23620ca47ccb2aa570ba726a230f561">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_17e219de9fe8ae9c3d26ec573c909057a0c0f624\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4edda9e89199e20272b18139d8e18c9701c37362\classes.dex" />
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0e07a2337c1acd383e0ffbd2deeeba0686c1d28d\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\8dd07c8df9ed2bdbc662c4a872994bed11a491d3\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="02c5e5285ff2ca36e217c92a1862938b58585c78">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fa35b200a2727d96dfb5314a307a6a211c13e566\classes.dex" />
+        sha1="cc612fa2610b0741f55190e7bc73034144873adb">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_e6bbf318bf13dae8e29b971465e8dfac13e3c49e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_3efcb1ee325a05f245bc6cfd95dff1ed62db0cc9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_e6a054bc585531b4707d0adfb170368a0f719a7a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\a2f66150e811496dbeb47e221838e37797960841\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d854e1072410c2f258416924b484ddf148199fee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.6\ce1edb914c94ebc388f086c6827e8bdeec71ac2\commons-lang-2.6.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang-2.6_e835bad00e914ce52f85ea891fab84d2ba68a2cf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_792a695bcba9453c6d442d900f3242ff4b05a8fa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\0c4d23bcb6b78c370974743ceaee53f938a065df\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4bebc792d03cfb8ae2e6b93b19bae47d986897f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\a5da70b725275a342e399bfef8c9219801e81eda\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa4d7dedbb678b228227eb94d22a82c0d788d572\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\537dd98ab245d39f8b37a24fed41aa861364eb44\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\a5347d93645e652220c5e196be8ae34b41ebc7e5\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_252bc2b97e80164f9548bdb9b3639d1d2f443291\classes.dex" />
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_84515f0fc20f20301393783af37642ecd8258285.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\b0ed7f3f64eaf85155caa66dcf701bd4e748b96e\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\a4dca5eb74e007061bef7dc90c3b91fc004ba969\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03957e0f8ef8ac4a548f5d096f318f78292c9ea9\classes.dex" />
+        sha1="a35913c0605e6d17f70acefe8c383eabcfc367c6">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_10ca568c3b47552de52fbcc2be47f59bcd385bb3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\c535f576b5ea9a89ea4eb3bdd24d75ab502ed917\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.6\ce1edb914c94ebc388f086c6827e8bdeec71ac2\commons-lang-2.6.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_915e9552a9ce7dadbe0d47f04f60a464804c4099\classes.dex" />
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\commons-lang-2.6_d7b5dae26bd3e74c8a204e73a20875fe9ee61fb7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\fb0f24b6f02edf05ab414c16112038d3b1e8159d\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\12fd99c394be2487efdc28a2513ec79d30788f2e\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_04fdd99d0a27cfd45fb7fe02f7f2b2e6459a6370\classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_31bf3f109756d818447046c455a69ec6a2a3ba2f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.gradle\caches\modules-2\files-2.1\com.github.scribejava\scribejava-core\4.0.0\f4b14341c6fb36958ea5480986d58e313e9d6d74\scribejava-core-4.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\80445cfed87c5d630340afb5c4f2dea0f78640b2\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="f4b14341c6fb36958ea5480986d58e313e9d6d74">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\scribejava-core-4.0.0_aad1f75fe5ca90354b5796992d581d74398e5976\classes.dex" />
+        sha1="04719361c29b9df47eb0e0ca5a8717807893addd">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_94f809b65c2a70301a02fd8c24fb39f57ab29202.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\b2a6a3b2cd0b2069406124bfe7a290fce63d291d\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\0d33003669b43cbcea63730fc65cc76458dd425e\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b15362b52d29c0bd94fd7f65ccd6865f306f8d46\classes.dex" />
+        sha1="16d4b1c07651dd6009971511173bd747fee826c5">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_719310636d4538f66d3822a8bada6a61d092c117.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_08e652d60c038ecf4ce70f87b181178e76598bca\classes.dex" />
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\glide-3.7.0_453f68c0632e06ce9c1116be385c275593e818db.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\302b5a832ca45a02abedf7716841705c220eabd8\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.2_c7cb4d0c7f81c0f9455833eb832cb550fe9e4bbb\classes.dex" />
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_793af7b5d6f2e87a00af75263b12e9dc3408e4fb.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\2d7ca6d8af3474c51816f5ff7d8709f88c01711b\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\0b3a931c290f89587ece0c332cf929d09f48823b\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83bf4110cad46b62fed6892b7d4e56b352317f8f\classes.dex" />
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_3996cbf667c42b04d23260bc8f2f61c738c9e97a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\fb0f24b6f02edf05ab414c16112038d3b1e8159d\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\6321fcdc599da6454b1fdad7618d9f83494721c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_3ce18e4d6a84837461b8c283e4b6e7dd698339db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\efdb8a94905a06202555b71ea6a53d979f5cf73f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_e631fc7c9b9328d7d78e3594c824929df8b64f7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\b8efc55fb8c48a53f50302ab32f27750c2342901\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_c3adfb1f5ed803675daebc0972bd52385f35202c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\0b3a931c290f89587ece0c332cf929d09f48823b\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01f69cecb82aec9cd7d5c761a305eba91fd3e432\classes.dex" />
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_ea255d0cf5abd97c8467db802aae73bec6d87796.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\e2d0d1b6632ef599ce3cc5d17990b62dad4e21c9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaa55e9647eb850eb7c339c09646828e2d364c34\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\3c8abe22bd6912bb91eac4dace316e614c18be70\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af1c1b2e07d4092e012c8f62f6fa1928dbbbef75\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\781a8cfb696ccdc828f6e1ee61557609fcc2790a\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="446319de779f94fde7b43c37524b43c30cd148b8">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3b3ff98308efd89d4279416c539647cbba8b62c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\b0ed7f3f64eaf85155caa66dcf701bd4e748b96e\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b6fc1b8efdece36f8018571c8c9c87e89ef69ecc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\46c8fc2eac6de430d6af31cc189e2f0006c92b7c\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\1766fa766600845ba3719d97aa6a93959b0014b9\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="de2a8ef4f859178c128c931b0f5ce0fe31919670">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1858633864e60e8180502ca37001d718c72a51d\classes.dex" />
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_99818b45d31cfac2ea3078f29384041ab110b9a6.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\251d02c5d7240eb25b314ab1b5de35b65c5cc993\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\302b5a832ca45a02abedf7716841705c220eabd8\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="f258a75e0e128c068e5fa681e01ff08a5b5e001f">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13dc666d28088f8c14e464e11a387ca88543ea7d\classes.dex" />
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_d4c51560908f8b07736d8dbba1a828a8ebc7bf91.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\sgutierrez\.android\build-cache\3c87ff92b836de5cd2d6af46b02c69e3aaf292db\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\2e4c601510793e6848ade43710b2354df5f01d57\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="C:\Users\sgutierrez\Downloads\JASONETTE-Android-0.4.0\JASONETTE-Android-0.4.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_839222e958065145d9a3d77b4388ae52e70aea7f\classes.dex" />
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_0d9bf60c1f052abd8699e4e35898ac407441d3fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\90fff13df712ef4a0de1134e970e25fef17463d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_ba3642d78dd79f87953b0aa54a66a7772d0f5684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\24c6050a50d4b878e07a76fd04267e8e1cc636fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="166c64fdb3660b9d4def0f2697b2ad3b5d44150a">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_861057c4a774316cbd5a8913ad677c8329f1ff4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\585ddfd9a797d710b3e1d12aa12da4c483b64f50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_814be052b7d652cfd22d6afdf4e67d26de8bff70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\8aee5492cc64aa2ea3fe5aeba98b5c0fa229a099\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bfdddd4e47dab6e743f217d2ddde7e6cc5db0ee">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_05050870253ec50547f68273ec9d97ed668f82b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\ceb4c8fc61772ebd61369f969d4b6bba51a133db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f258a75e0e128c068e5fa681e01ff08a5b5e001f">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_0f118109c1e0f85e2e25c2987e4a07d8c8140731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.gradle\caches\modules-2\files-2.1\com.github.scribejava\scribejava-apis\4.0.0\aa7e65edd55d6188b8920ce01523417d6216c033\scribejava-apis-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa7e65edd55d6188b8920ce01523417d6216c033">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\scribejava-apis-4.0.0_11d982997115469fbe2365ebca2b876375d0cc95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\d86a9830539402b620e070e8e1eaa8052773764c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_932e2e6ed8c699ca8b514a5d25242cfa0e920dd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steve\.android\build-cache\efdb8a94905a06202555b71ea6a53d979f5cf73f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\steve\work\MLP-Mexico-App\app\build\intermediates\pre-dexed\release\classes_c0344f9c74c081101487d7b7ddbcacc833ba69c5.jar" />
     </item>
 
 </items>

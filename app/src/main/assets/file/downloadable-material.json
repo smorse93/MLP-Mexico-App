@@ -7,26 +7,27 @@
                     "text": "Home",
                     "href": {
                         "url": "file://hello.json"
-                    }
+                    },
+                    "style":{"color": "rgb(0,0,0)"}
                 }
             },
             "sections": [{
                 "items": [
                     {"type": "vertical",
-                        "style": {"spacing": "5"},
+                        "style": {"spacing": "20"},
                         "components": [
-                            {"type": "label", "text": "Spanish Language Resources"},
+                            {"type": "label", "text": "Spanish Language Resources", "style": {"size" : "24", "color": "rgb(0,0,0)"}},
                             {"type": "image", "url": "file://Descargablevideoendropbox.png", "href": {"view": "web", "url": "https://www.dropbox.com/sh/ear3vfd4vbk5giy/AAAfhMiWCF9eHf4pL3aU_Cyxa?dl=0"}},
                             {"type": "image", "url": "file://Manualdeinstruccionparaellaeducaciondelmercado.png", "href": {"view": "web", "url": "https://www.dropbox.com/s/2qhecapjb1cbmkw/IMMLP%20Instructor%20Manual%202017%2011-06-17.docx?dl=0"}},
                             {"type": "image", "url": "file://Galeriadelmanualeducativopara\ elmercado.png", "href": {"view": "web", "url": "https://www.dropbox.com/s/vftcz9hhuxbw34y/IMMLP%20InstructorSlideDeck%20Spanish.pptx?dl=0"}},
                             {"type": "image", "url": "file://Folletodepromocionparafacilitadores.png", "href": {"view": "web", "url": "https://mlpmexico.weebly.com/uploads/8/1/3/7/81372098/18951161_1358256340896077_6159514873653116954_n.png"}},
                             {"type": "image", "url": "file://Infografiasobrelaviolenciadomestica.png", "href": {"view": "web", "url": "https://mlpmexico.weebly.com/uploads/8/1/3/7/81372098/infografia_2.pdf"}},
                             {"type": "image", "url": "file://Kitdeensenanzacompleto.png", "href": {"view": "web", "url": "https://drive.google.com/drive/folders/1evmaPRWZgSnumAHcfrPUBnxSqTJea_7R"}},
-                            {"type": "label", "text": "English Language Resources"},
+                            {"type": "label", "text": "English Language Resources","style": {"size" : "24", "color": "rgb(0,0,0)"}},
                             {"type": "image", "url": "file://Mesadediapositivamasteruniversal.png", "href": {"view": "web", "url": "https://www.dropbox.com/s/3cnd3j5qyj36of8/Universal%20Master%20Slide%20Deck%20May%202018.pptx?dl=0"}},
                             {"type": "image", "url": "file://Manualdesecuenciadecomandos.png", "href": {"view": "web", "url": "https://www.dropbox.com/s/nexme1v736yz7a1/IMMLP%20Instructor%20Manual%202017%2011-06-17.docx?dl=0"}},
                             {"type": "image", "url": "file://Encuestadeevaluaciondelcurso.png", "href": {"view": "web", "url": "https://www.dropbox.com/sh/yf5hibg5q3l6yww/AAB1wU1VbPMwvl91BfVsZ1ema?dl=0"}},
-                            {"type": "label", "text": "Universal"},
+                            {"type": "label", "text": "Universal", "style": {"size" : "24", "color": "rgb(0,0,0)"}},
                             {"type": "image", "url": "file://Galeriadeilustraciones.png", "href": {"view": "web", "url": "https://mlpmexico.weebly.com/illustration-gallery.html"}},
                             {"type": "image", "url ": "file://Manualesdeepub.png", "href": {"view": "web", "url": "https://immlp.illinois.edu/instructors-manuals/"}}
                         ]
